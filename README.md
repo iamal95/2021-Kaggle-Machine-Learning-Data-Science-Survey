@@ -25,6 +25,7 @@ The datasets come from Kaggle  " 2020 Kaggle Data Science & Machine Learning Sur
 # Algorithms
 **Feature Engineering:**
 Divide the data set to two different dataframes and filter it to work on the columns that related to the questions and applied function to get the rate.
+
 **Visualization:**
 Using the Matplotlib and Seaborn to show the Top gender who answering the surveys in Saudi Arabia in 2020 and 2021 and compare it, show the gender worldwide in 2020 and 2021 and compare it, show the top popular programming language in 2020 and 2021 and compare it and the rate of increasing between the 2 years, show the most used cloud platforms in 2020 and 2021 and compare it, show the most common framework in 2021, show the most popular Integrated Development Environment (IDE) in 2021, show the most popular ML algorithm used for Data Science 2021 and the most common industry rely on Machine Learning products in 2021.
 
