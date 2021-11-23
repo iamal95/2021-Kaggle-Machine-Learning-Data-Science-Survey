@@ -19,7 +19,7 @@ This project originates from the Data Science Bootcamp (T5) to find answers to s
 by using the Kaggle surveys datasets through exploratory data analysis.
 
 # Data
-The datasets come from Kaggle  " 2020 Kaggle Data Science & Machine Learning Survey and 2021 Kaggle Machine Learning & Data Science Survey ". The survey questions range from demographic questions, such as gender and level of higher education, to questions about programming languages, tools, and machine learning algorithms used. Most of the columns are categorical. These datasets are available as a comma-separated values (.csv) file.
+The datasets come from Kaggle  " [2020 Kaggle Data Science & Machine Learning Survey](https://www.kaggle.com/c/kaggle-survey-2020) and [2021 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/c/kaggle-survey-2021) ". The survey questions range from demographic questions, such as gender and level of higher education, to questions about programming languages, tools, and machine learning algorithms used. Most of the columns are categorical. These datasets are available as a comma-separated values (.csv) file.
 
 
 # Algorithms
