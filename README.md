@@ -24,7 +24,7 @@ The datasets come from Kaggle  " [2020 Kaggle Data Science & Machine Learning Su
 
 
 # Algorithms
-**Feature Engineering:**
+**Filtring:**
 Divide the data set to two different dataframes and filter it to work on the columns that related to the questions and applied function to get the rate.
 
 **Visualization:**
